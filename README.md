@@ -42,8 +42,7 @@
      <p>My name is Stina Hafthors</p>
      <img src="Paar.jpg"
      width="300px" height="200px">
-
-    <iframe src="href="https://giphy.com/gifs/Espressolab-cat-coffee-shop-mBLYrKaZJACmtum22X">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWZ0bHIyNHMxdXkxc3J3ZGRuMjBubWF3Njh1MGY4Ym05bmFkanljaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mBLYrKaZJACmtum22X/giphy.webp"> 
    </article>
 <section class="Exp">
     <h2>Experinece</h2>
