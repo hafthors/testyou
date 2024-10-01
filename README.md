@@ -102,6 +102,7 @@
     Contact me at my email <a
     href="mailto: s.hafthors@gmail.com">My Email Address</a>
  </p>
+<iframe src="https://giphy.com/embed/mBLYrKaZJACmtum22X" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Espressolab-cat-coffee-shop-mBLYrKaZJACmtum22X">via GIPHY</a></p>
 </section>
 
 <footer class="footer">Copyright (c) 2022 Stina Hafthors Content please Contact
