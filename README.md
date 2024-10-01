@@ -23,10 +23,6 @@
     href="mailto: s.hafthors@gmail.com">My Email Address</a>
  </p>
 
-</section>
 
-<footer class="footer">Copyright (c) 2022 Stina Hafthors Content please Contact
-    me to find out more.</footer>
-</footer>
 </body>
 </html>
