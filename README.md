@@ -42,15 +42,7 @@
      <p>My name is Stina Hafthors</p>
      <img src="Paar.jpg"
      width="300px" height="200px">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWZ0bHIyNHMxdXkxc3J3ZGRuMjBubWF3Njh1MGY4Ym05bmFkanljaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mBLYrKaZJACmtum22X/giphy.webp"> 
-   </article>
-<section class="Exp">
-    <h2>Experinece</h2>
-    <table>
-        <colgroup>
-        <col span="1" style="background-color: #dddd;">
-    
-        </colgroup>
+
      <tr><th>Company</th>
       <th>Details</th>
       <th>Years</th>
@@ -92,12 +84,6 @@
         <li>Travel</li>
     </ul>
 </section>
-
-</section>
-<section id="Ski">
- <h2>Skills</h2>
-</section>
-<section id="Con">
  <h2>Contact me</h2>
  <p>
     Contact me at my email <a
